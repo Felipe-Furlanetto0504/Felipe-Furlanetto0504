@@ -45,9 +45,9 @@ Atualmente, venho trabalhando em projetos acadêmicos com abordagem prática, ap
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO\&show_icons=true\&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Felipe-Furlanetto0504\&show_icons=true\&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO\&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Furlanetto0504\&layout=compact)
 
 ---
 
