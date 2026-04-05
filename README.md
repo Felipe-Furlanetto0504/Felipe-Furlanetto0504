@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Felipe-Furlanetto0504
+# 👋 Olá, eu sou o Felipe Furlanetto
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 💻 Estudando desenvolvimento backend e frontend
@@ -30,7 +30,7 @@ Atualmente, venho trabalhando em projetos acadêmicos com abordagem prática, ap
 ### ⚙️ Frameworks e Tecnologias
 
 * .NET
-* Spring Boot (básico)
+* Spring Boot
 
 ### 🗄️ Banco de Dados
 
@@ -39,7 +39,7 @@ Atualmente, venho trabalhando em projetos acadêmicos com abordagem prática, ap
 ### 🧰 Ferramentas
 
 * Git & GitHub
-* Azure (básico)
+* Azure
 
 ---
 
