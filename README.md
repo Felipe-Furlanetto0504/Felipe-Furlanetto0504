@@ -26,6 +26,8 @@ Atualmente, venho trabalhando em projetos acadêmicos com abordagem prática, ap
 * Java
 * C#
 * SQL
+* Javascript
+* Python
 
 ### ⚙️ Frameworks e Tecnologias
 
@@ -34,7 +36,7 @@ Atualmente, venho trabalhando em projetos acadêmicos com abordagem prática, ap
 
 ### 🗄️ Banco de Dados
 
-* SQL Server
+* Oracle
 
 ### 🧰 Ferramentas
 
